@@ -1,1 +1,1 @@
-# Portifolio-/index.html-/img-/foto.png
+# Portifolio-/index.html-/foto.png
