@@ -3,11 +3,13 @@ body{
   
 }
 .container{
-  width:300px;
+  width:1080px;
   heigth:200px;
-  background-color:#4E4187;
-  text-align: center;
-  text-color: black;
+  background-color:#4E4187;  
+  text-color: #F8FFES;
+}
+H1{
+text-align: center;  
 }
 p{
   text-align=justify;
