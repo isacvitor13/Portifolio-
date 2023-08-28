@@ -2,7 +2,10 @@ body{
   background-color: #F8FFES;
   
 }
-h1{
+.container{
+  width:300px;
+  heigth:200px;
+  background-color:#4E4187;
   text-align: center;
   text-color: black;
 }
