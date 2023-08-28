@@ -1,14 +1,13 @@
 body{ 
-  background-color: #F2FFES;
-  
+  background-color:#F8FFES;  
 }
 .container h1{
-  text-align:center;  
+  /*text-align:center;*/  
   background-color:#4E4187;  
-  text-color: #F8FFES;
+  text-color:#F8FFES;
 }
 
 p{
   text-align=justify;
-  text-align=right;
+/*  text-align=right;*/
 }
