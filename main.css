@@ -7,5 +7,6 @@ h1{
   text-color: black;
 }
 p{
-text-align=justify;
+  text-align=justify;
+  text-align=right;
 }
