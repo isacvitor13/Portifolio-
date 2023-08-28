@@ -3,11 +3,13 @@ body{
 }
 .container h1{
   /*text-align:center;*/  
+  color:#F8FFES;
   background-color:#4E4187;  
-  text-color:#F8FFES;
+ /* text-color:#F8FFES;*/
+  font-family: arial,sans-serif;
 }
 
 p{
   text-align=justify;
-/*  text-align=right;*/
+/*text-align=right;*/
 }
