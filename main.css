@@ -1,6 +1,9 @@
 body{ 
   background-color:#F8FFE5;  
 }
+img{
+  width:50%;
+}
 .container h1{
   /*text-align:center;*/  
   color:#F8FFE5;
