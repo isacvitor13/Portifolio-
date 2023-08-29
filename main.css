@@ -1,9 +1,6 @@
 body{ 
   background-color:#F8FFE5;  
 }
-img{
-  width:50%;
-}
 .container h1{
   /*text-align:center;*/  
   color:#F8FFE5;
@@ -13,6 +10,9 @@ img{
 }
 
 p{
+  background-color:#4E4187;
+  border-radius:20px;
+  
   text-align=justify;
 /*text-align=right;*/
 }
