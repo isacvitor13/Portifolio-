@@ -7,12 +7,11 @@ body{
   background-color:#3083DC;  
  /* text-color:#F8FFE5;*/
   font-family: arial,sans-serif;
+  box-shadow: 2px 2px 4px rgba(0,0,0,0.5);
 }
 
 p{
-  background-color:#3083DC;
-  border-radius:20px;
-  text-color:white;
+  color:white;
   text-align=justify;
 /*text-align=right;*/
 }
