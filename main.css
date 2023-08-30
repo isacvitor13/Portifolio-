@@ -15,3 +15,8 @@ p{
   text-align=justify;
 /*text-align=right;*/
 }
+ul{
+  position:absolute;
+  left:10px;
+  
+}
