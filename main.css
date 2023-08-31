@@ -2,6 +2,7 @@ body{
   background-color:#F8FFE5;  
 }
 .container h1{
+  padding-left:50px;
   /*text-align:center;*/  
   color:#F8FFE5;
   background-color:#3083DC;  
