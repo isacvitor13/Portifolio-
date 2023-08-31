@@ -31,7 +31,7 @@ img{
   position:relative;
   color:black;
   left:1rem;
-  text-justify:20;
+ /* text-justify:20;*/
   padding-top: 50;
 /*text-align=right;*/
 }
